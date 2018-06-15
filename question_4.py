@@ -1,4 +1,4 @@
-myl=[4,'Arnav',1.5]
+myl=[4,'Ashmita',1.5]
 from collections import defaultdict
 d=defaultdict(list)
 for x in myl:
